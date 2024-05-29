@@ -1,6 +1,28 @@
 # CSCI-5160 Enterprise_Networks
 This repo consists of the CSCI-5160 Enterprise Networks coursework and Lab implementations
 
+Lab 0 - Learn the basics of LAN cabling. 
+•	PC to a Router: crossover 
+•	PC to a PC: crossover
+•	Router to Router: crossover
+•	Router to Switch: straight through
+•	Switch to Switch: crossover 
+•	Hub to Switch: crossover
+•	PC to Hub: straight through
+•	PC to Switch: straight through
+        2. Learn how to connect a Personal Computer to a Cisco Router/Switch for configuration.
+        3. Learn the different user level and navigate between them. 
+        4. Learn how to secure a router/switch.
+        5. Learn how to connect to a router remotely via Telnet. 
+        6. Learn the use of Wire shark packet sniffer. 
+        7. Learn how to use a commserver for connectivity. 
+        8. Learn how to Telnet to commserver.
+        9. Learn to calculate Path MTU and GIANT Packets.
+        10. Learn to back up a Router/Switch IOS. 
+        11. Learn how Proxy ARP works. 
+        12. Learn password recovery on a router and a switch
+
+
 Lab 1 - Port Configuration, 
         Port Securit, 
         Single Switch Vlan Configuration, 
@@ -13,7 +35,9 @@ Lab 1 - Port Configuration,
         EtherChannel,
         Configuring SPAN (Packet sniffing from your network)
 
-Lab 2 - Creating a DHCP server and implementing wired LANs,
+Lab 2 - Route Summarization,
+        VLSM, Classfull and Classless Subnetting,
+        Creating a DHCP server and implementing wired LANs,
         Configuring Wireless for IPv4 VLANs,
         Configuring Radio station Sub-interfaces,
         Configuring Clients,
