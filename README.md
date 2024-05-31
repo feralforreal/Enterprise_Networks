@@ -35,6 +35,10 @@ Lab 1 - Port Configuration,
         EtherChannel,
         Configuring SPAN (Packet sniffing from your network)
 
+        <img width="522" alt="image" src="https://github.com/feralforreal/Enterprise_Networks/assets/132085748/10560662-5e33-4a41-b0a6-6b0c59403f3b">
+
+
+
 Lab 2 - Route Summarization,
         VLSM, Classfull and Classless Subnetting,
         Creating a DHCP server and implementing wired LANs,
